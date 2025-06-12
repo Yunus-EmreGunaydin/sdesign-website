@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": 1,
+    "title": "Sample Product",
+    "titleEn": "Sample Product",
+    "artist": "S Design",
+    "price": 1000,
+    "image": "/images/products/sample.jpg",
+    "category": "Test",
+    "categoryEn": "Test",
+    "material": "Metal",
+    "materialEn": "Metal",
+    "dimensions": "50x50 cm",
+    "rating": 5.0,
+    "likes": 0,
+    "views": 0,
+    "description": "Test product",
+    "descriptionEn": "Test product",
+    "trending": false,
+    "featured": true,
+    "inStock": true
+  }
+]
