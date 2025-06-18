@@ -20,5 +20,27 @@
     "trending": false,
     "featured": true,
     "inStock": true
+  },
+  {
+    "id": 2,
+    "title": "Deneme2",
+    "titleEn": "Attempt2",
+    "artist": "S Design",
+    "price": 4321,
+    "originalPrice": 4321,
+    "image": "/images/products/product-1749746103888.png",
+    "category": "Deneme",
+    "categoryEn": "Attempt",
+    "material": "Deneme",
+    "materialEn": "Deneme",
+    "dimensions": "2",
+    "rating": 5,
+    "likes": 0,
+    "views": 0,
+    "description": "Deneme",
+    "descriptionEn": "Deneme",
+    "trending": true,
+    "featured": true,
+    "inStock": true
   }
 ]
