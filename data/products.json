@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Deneme",
+    "titleEn": "Attempt",
+    "artist": "S Design",
+    "price": 1234,
+    "originalPrice": 1234,
+    "image": "/images/products/product-1749753384082.jpg",
+    "category": "Deneme",
+    "categoryEn": "Attempt",
+    "material": "Deneme",
+    "materialEn": "Attempt",
+    "dimensions": "2",
+    "rating": 5,
+    "likes": 0,
+    "views": 0,
+    "description": "Deneme",
+    "descriptionEn": "Deneme",
+    "trending": false,
+    "featured": true,
+    "inStock": true
+  }
+]
